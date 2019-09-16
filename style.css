@@ -1,0 +1,104 @@
+body{
+  width: 800px; margin: 0 auto
+  
+}
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  color: #a71930;
+  width: 800px; margin: 0 auto;
+}
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #a71930;
+  width: 800px; margin: 0 auto;
+}
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  width: 800px; margin: 0 auto;
+}
+h4 {
+  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  width: 800px; margin: 0 auto;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  width: 800px; margin: 0 auto;
+}
+blockquote {
+  font-size: 1.4em;
+  margin:10px auto;
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  padding:0.5em 0px 1.0em 20px;
+  border-left:7px solid #800000 ;
+  background:white;
+  line-height: 1.0;
+  width:770px;
+}
+ul {
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  width: 800px; margin: 0 auto;
+}
+ol {
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  width: 800px; margin: 0 auto;
+}
+img {
+  margin: 10px;
+}
+* {
+  font-family: sans-serif; /* Change your font family */
+}
+
+.content-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  min-width: 700px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+  background-color: #a71930;
+  color: #ffff;
+  text-align: left;
+  font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+  padding: 12px 15px;
+}
+
+.content-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+  background-color: ##a71930;
+}
+
+.content-table tbody tr:last-of-type {
+  border-bottom: 2px solid #a71930;
+}
+
+.content-table tbody tr.active-row {
+  color:#000000 ;
+}
+
+div.img {
+    margin: 5px;
+    float: right;
+    width: 180px;
+    text-align: right;
+      padding: 15px;
+    width: 30%;
+    height: auto;
+}
